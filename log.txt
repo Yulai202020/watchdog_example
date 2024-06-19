@@ -1,0 +1,3 @@
+INFO:root:File test/1 was created.
+INFO:root:File test/1 was modified.
+INFO:root:File test/1 was deleted.
